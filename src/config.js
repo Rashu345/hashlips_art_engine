@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Your Collection";
 const description = "Remember to replace this description";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://bafybeibmenuw3bzyfzeam4c3ldjwchn2racpqwbfvoo52zz5psfy4tt36m";
 
 const solanaMetadata = {
   symbol: "YC",
