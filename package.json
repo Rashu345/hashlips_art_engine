@@ -4,7 +4,7 @@
   "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
   "main": "index.js",
   "bin": "index.js",
-  "pkg": {
+  "pkg": {ipfs://bafybeibmenuw3bzyfzeam4c3ldjwchn2racpqwbfvoo52zz5psfy4tt36m
     "assets": [
       "layers/**/*",
       "node_modules/**/*",
